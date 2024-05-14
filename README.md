@@ -1,1 +1,1 @@
-# react-native-expo-tamagui-for-zenn
+# react-native-expo-tamagui-template
